@@ -1,2 +1,4 @@
 # SimpleStorefront
-Simple Storefront based on Java
+A simple storefront developed using an MVC approach.
+
+[Simple Storefront](https://github.com/amclees/SimpleStorefront)
