@@ -1,4 +1,4 @@
 # SimpleStorefront
-A simple storefront developed as a team project using an MVC approach.
+A storefront developed in Java utilizing a MVC approach with Java EE as an end of semester team project.
 
-[Simple Storefront](https://github.com/amclees/SimpleStorefront)
+The source code is hosted here: [Simple Storefront](https://github.com/amclees/SimpleStorefront)
